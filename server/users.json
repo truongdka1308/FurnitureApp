@@ -1,0 +1,26 @@
+[
+    {
+        "id": "0",
+        "name": "avx",
+        "email": "bbb",
+        "password": "12344",
+        "avatarUrl": "https://cdn.thoitiet247.edu.vn/wp-content/uploads/2024/04/nhung-hinh-anh-girl-xinh-de-thuong.webp",
+        "address": "Yen Nghia,Ha Dong,Ha Noi"
+    },
+    {
+        "id": "1",
+        "name": "Nguyen Van Truong",
+        "email": "truongnvph39018@fpt.edu.vn",
+        "password": "truongdz",
+        "avatarUrl": "https://luv.vn/wp-content/uploads/2021/11/avatar-gai-xinh-9.jpg",
+        "address": "Yen Nghia,Ha Dong,Ha Noi"
+    },
+    {
+        "id": "2",
+        "name": "trungng",
+        "email": "trung123@gmail.com",
+        "password": "12345",
+        "avatarUrl": "",
+        "address": ""
+    }
+]
